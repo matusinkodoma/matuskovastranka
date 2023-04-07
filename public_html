@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Prihlásenie</title>
+  </head>
+  <body>
+    <h1>Prihlásenie</h1>
+    <form>
+      <label for="password">Heslo:</label>
+      <input type="password" id="password" name="password"><br><br>
+      <input type="submit" value="Prihlásiť sa">
+    </form>
+  </body>
+</html>
